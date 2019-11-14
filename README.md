@@ -22,8 +22,8 @@ ViaCep: https://viacep.com.br
 1. Install AWS Lambda GO package 
 2. Install AWS Lambda Deployment Package 
 3. Execute build-aws-zip.bat on PowerShell or CMD
-4. Upload the zip file generate in /target folder to your AWS account
-5. Just fun =)
+4. Upload the zip file generated in /target folder to your AWS account
+5. Just have fun =)
 
 ## Errors expected
 
